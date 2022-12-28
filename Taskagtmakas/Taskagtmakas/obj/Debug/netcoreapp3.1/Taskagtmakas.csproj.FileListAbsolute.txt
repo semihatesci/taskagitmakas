@@ -1,0 +1,13 @@
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\bin\Debug\netcoreapp3.1\Taskagtmakas.exe
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\bin\Debug\netcoreapp3.1\Taskagtmakas.deps.json
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\bin\Debug\netcoreapp3.1\Taskagtmakas.runtimeconfig.json
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\bin\Debug\netcoreapp3.1\Taskagtmakas.runtimeconfig.dev.json
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\bin\Debug\netcoreapp3.1\Taskagtmakas.dll
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\bin\Debug\netcoreapp3.1\Taskagtmakas.pdb
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\obj\Debug\netcoreapp3.1\Taskagtmakas.csprojAssemblyReference.cache
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\obj\Debug\netcoreapp3.1\Taskagtmakas.AssemblyInfoInputs.cache
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\obj\Debug\netcoreapp3.1\Taskagtmakas.AssemblyInfo.cs
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\obj\Debug\netcoreapp3.1\Taskagtmakas.csproj.CoreCompileInputs.cache
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\obj\Debug\netcoreapp3.1\Taskagtmakas.dll
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\obj\Debug\netcoreapp3.1\Taskagtmakas.pdb
+C:\Users\atesci\source\repos\Taskagtmakas\Taskagtmakas\obj\Debug\netcoreapp3.1\Taskagtmakas.genruntimeconfig.cache
